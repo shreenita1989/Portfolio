@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Shreenita Ghosh"
+author: "Shreenita Ghosh"
+description: "Maintained by Shreenita Ghosh"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,12 +17,16 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "about.html", title: About}
+  - {file: "portfolio.md", title: Portfolio}
+  - {title: Blog, url: "https://shreenitacom.wordpress.com/blog/"}
+  - {file: "contact.html", title: Contact}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+	  - {title: Mail, icon: envelope, url: "mailto:shreenita.ghosh@gmail.com"}
+	  - {title: Github, icon: github, url: "https://github.com/shreenita1989"}
+	  - {title: Twitter, icon: twitter, url: "https://twitter.com/ShreenitaGhosh"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
