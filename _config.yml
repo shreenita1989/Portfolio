@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {title: About, file: "about.html"}
   - {title: Portfolio, file: "portfolio.html"}
+  - {title: Blog, url: "https://shreenitacom.wordpress.com/blog/"}
   - {title: Contact, file: "contact.html"}
   
 
