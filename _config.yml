@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: About, file: "about.html"}
   - {title: Portfolio,file: "portfolio.html" }
-  - {title: Resume, url: "https://github.com/shreenita1989/portfolio/blob/6b5091695aa49913b003f7f1128eab19fe423cc7/Shreenita_Ghosh_Resume_DS.pdf"}
+  - {title: Resume, file: "cv.html"}
   - {title: Blog, url: "https://shreenitacom.wordpress.com/blog/"}
   - {title: Contact, file: "contact.html"}
   
