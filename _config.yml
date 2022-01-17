@@ -17,11 +17,6 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "about.html", title: About}
-   - {title: Resume, url: "/Shreenita_Ghosh_Resume_DS.pdf"}
-  - {file: "portfolio.md", title: Portfolio}
-  - {title: Blog, url: "https://shreenitacom.wordpress.com/blog/"}
-  - {file: "contact.html", title: Contact}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
